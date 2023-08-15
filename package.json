@@ -1,0 +1,17 @@
+{
+    "name": "cloud-function-register",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Appwrite cloud function for registering new users",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "kbve",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "node-appwrite": "^4.0.2"
+    }
+}
